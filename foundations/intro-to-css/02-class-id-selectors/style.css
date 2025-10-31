@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd {
+    background-color: rgb(255, 182, 193);
+    font-family: verdana, dejavu sans, sans-serif;
+}
+
+#blue {
+    color: rgb(000, 000, 250);
+    font-size: 36px;
+}
+
+.size {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgb(0, 150, 0);
+    font-size: 24px;
+    font-weight: 700;
+}
